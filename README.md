@@ -1,2 +1,2 @@
-# Test_Plan-
+# Test_Plan
 Test Plan Template
